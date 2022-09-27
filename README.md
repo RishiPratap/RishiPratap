@@ -20,6 +20,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RishiPratap&repo=Stocks_Price_Prediction)](https://github.com/RishiPratap/Stocks_Price_Prediction)
 
+[![@rishi0258's Holopin board](https://holopin.io/api/user/board?user=rishi0258)](https://holopin.io/@rishi0258)
+
 ![RishiPratap's github stats](https://github-readme-stats.vercel.app/api?username=RishiPratap&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiPratap&langs_count=20)](https://github.com/RishiPratap)
