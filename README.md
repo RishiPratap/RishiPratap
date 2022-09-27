@@ -22,6 +22,8 @@
 
 [![@rishi0258's Holopin board](https://holopin.io/api/user/board?user=rishi0258)](https://holopin.io/@rishi0258)
 
+<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="react" width="140" height="140"/>
+
 ![RishiPratap's github stats](https://github-readme-stats.vercel.app/api?username=RishiPratap&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishiPratap&langs_count=20)](https://github.com/RishiPratap)
