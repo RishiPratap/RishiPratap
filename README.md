@@ -20,9 +20,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RishiPratap&repo=Stocks_Price_Prediction)](https://github.com/RishiPratap/Stocks_Price_Prediction)
 
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="react" width="140" height="160"/>
-
-<img src="https://user-images.githubusercontent.com/72687585/195432030-ef3941c2-6962-4804-a335-34c22895ea6c.png" alt="react" width="140" height="140"/>
+[![@rishi0258's Holopin board](https://holopin.me/rishi0258)](https://holopin.io/@rishi0258)
 
 ![RishiPratap's github stats](https://github-readme-stats.vercel.app/api?username=RishiPratap&show_icons=true&theme=radical)
 
